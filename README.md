@@ -25,7 +25,7 @@ A report which has translated Phase1 abstract code into SQL queries
 
 Phase 3: 
 
-All the implementation code for this project
+All the implementation code for this project.
 ### Authors:
 Didi Chen
 Suiqiong Li
