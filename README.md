@@ -9,16 +9,22 @@ will be implemented using a Database Management System (DBMS) that supports stan
 SQL queries. 
 ### Repository layout
 This project is delivered in 3 phases.
+
 Phase 1:
+
 The Extended Entity Relationship (EER) map for the S&E Store
 The Information Flow Diagram
 A detailed Report with data types, task decomposition, and abstract code.
+
 Phase 2:
+
 The updated EER map
 The EER to Relational Database table mapping
 Full schema of the Relational Database with all tables and constraints
 A report which has translated Phase1 abstract code into SQL queries
+
 Phase 3: 
+
 All the implementation code for this project
 ### Authors:
 Didi Chen
