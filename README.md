@@ -68,6 +68,10 @@ category name ascending.
 
 Report 7 – Revenue by Population:the average revenue is for specific population categories.
 
+Here I used Report 1 as an example.
+![5](https://user-images.githubusercontent.com/50339450/168500004-af0b46df-2ee0-4f5d-82df-ae5f62716954.png)
+
+
 
 
 
