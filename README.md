@@ -36,3 +36,18 @@ The local database is hosted on the WAMP server.
 The main menu screen  can be used to access all functionality of the system that has been described in this specification. On this main menu, the following
 statistics should be displayed along with any buttons/links to reports or functionalities: the count of stores, manufacturers, products, and managers in the data warehouse.
 ![1](https://user-images.githubusercontent.com/50339450/168499085-b44c35c5-09cb-4b77-bd67-d9ea76af3ac6.png)
+
+#### Manager
+Managers’ information can be added, removed, and assigned/unassigned to stores, as this information may not be available from the source system or outdated.
+![2](https://user-images.githubusercontent.com/50339450/168499179-2d5b01d9-b2e9-403f-b6fc-891c7e0eefb0.png)
+
+#### City
+The UI allows for updating the population of any cities in the data warehouse, should a city’s population change.
+![3](https://user-images.githubusercontent.com/50339450/168499388-5a39c10c-9d2e-4561-bbe1-a6d9fdf62913.png)
+
+#### Holiday
+This interface allows for viewing and adding holiday information directly within the user interface.
+![4](https://user-images.githubusercontent.com/50339450/168499466-0661da39-cf10-4342-be69-28cca9f2c88b.png)
+
+
+
