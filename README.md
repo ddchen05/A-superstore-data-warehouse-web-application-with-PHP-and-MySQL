@@ -1,4 +1,4 @@
-# A Web Database Application with PHP and MySQL
+# A superstore data warehouse web application with PHP and MySQL
 ### Project Overview
 The purpose of this project is to analyze, specify, design, and implement a data warehouse for 
 an up-and-coming computer and electronics store called S&E’s Technology Superstore. The 
@@ -48,6 +48,19 @@ The UI allows for updating the population of any cities in the data warehouse, s
 #### Holiday
 This interface allows for viewing and adding holiday information directly within the user interface.
 ![4](https://user-images.githubusercontent.com/50339450/168499466-0661da39-cf10-4342-be69-28cca9f2c88b.png)
+
+#### Reports
+7 reports can be accessed with the user interface, including:
+Report 1 – Manufacturer’s Product Report:For each manufacturer, return the manufacturer’s name, total number of products offered by the manufacturer, average retail price of all the manufacturer’s products, minimum retail price, and maximum retail price.
+Report 2 – Category Report:For each category, return the category name, total number of products in that category, total number of unique manufacturers offering products in that category, and the average retail price (not including sale days) of all the products in that category, sorted by category name ascending.
+Report 3 – Actual versus Predicted Revenue:This report compares how much revenue was actually generated from a product’s sales to a predicted revenue if the product were never offered on sale.
+Report 4 –Store Revenue by Year by State:This report shows the revenue collected by stores per state grouped by year.
+Report 5 – Air Conditioners on Groundhog Day:For each year, return the year, the total number of items sold that year in the air conditioning category, the average number of units sold per day (assume a year is exactly 365 days), and the total number of units sold on Groundhog Day (February 2) of that year. Sort the report on
+the year in ascending order.
+Report 6 – State with Highest Volume for each Category:The report will return for each category: the category name, the state that sold the highest number of units in that category (i.e., include items sold by all stores in the state), and the number of units that were sold by stores in that state. This output shall be sorted by
+category name ascending.
+Report 7 – Revenue by Population:the average revenue is for specific population categories.
+
 
 
 
