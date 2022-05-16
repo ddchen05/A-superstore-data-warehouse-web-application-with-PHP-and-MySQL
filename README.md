@@ -31,7 +31,7 @@ Phase 3:
 
 All the implementation code for this project.
 ### UI interface
-The local database is hosted on the WAMP server.
+The database is tested locally on BitNami WAMPStack.
 #### Dashboard
 The main menu screen  can be used to access all functionality of the system that has been described in this specification. On this main menu, the following
 statistics should be displayed along with any buttons/links to reports or functionalities: the count of stores, manufacturers, products, and managers in the data warehouse.
