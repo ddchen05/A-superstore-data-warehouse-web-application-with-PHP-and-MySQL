@@ -71,6 +71,9 @@ Report 7 – Revenue by Population:the average revenue is for specific populatio
 Here I used Report 1 as an example.
 ![5](https://user-images.githubusercontent.com/50339450/168500004-af0b46df-2ee0-4f5d-82df-ae5f62716954.png)
 
+When the "View Detail" button is clicked, a UI will show the manufacturer’s details (name and maximum discount), the summary information from the parent report, and lists for each of the manufacturer’s products’ its product ID, name, category (or categories), and price, ordered by price descending (high to low). If a product has multiple categories it must not show up as multiple rows on the report, but as a single row with multiple categories concatenated together.
+
+![6](https://user-images.githubusercontent.com/50339450/168500225-027d5b98-0ece-4f95-8a90-9bf8918f16b8.png)
 
 
 
